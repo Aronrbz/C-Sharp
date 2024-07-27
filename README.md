@@ -64,3 +64,122 @@ Versiones de .NET
     .NET Core: Una versión multiplataforma y de código abierto del .NET Framework, lanzada en 2016.
     
     .NET 5 y versiones posteriores: Una plataforma unificada que reemplaza tanto a .NET Framework como a .NET Core, lanzada en 2020. La versión más reciente es .NET 6, lanzada en 2021.
+
+
+
+# Indice
+
+# Índice Completo de Temas
+
+# Nivel Básico
+
+Introducción a la Programación en C#
+
+                Historia y evolución del lenguaje
+                Instalación de Visual Studio
+                Primer programa en C# (Hola Mundo)
+                Sintaxis básica
+                Tipos de Datos y Variables
+                
+                Tipos de datos primitivos
+                Declaración y uso de variables
+                Conversión de tipos
+                Operadores y Expresiones
+                
+                Operadores aritméticos
+                Operadores de comparación
+                Operadores lógicos
+                Estructuras de Control
+                
+                Condicionales (if, else, switch)
+                Bucles (for, while, do-while)
+                Métodos y Funciones
+                
+                Declaración y uso de métodos
+                Parámetros y valores de retorno
+                Sobrecarga de métodos
+
+
+# Nivel Medio
+
+Clases y Objetos
+                
+                Definición de clases
+                Creación de objetos
+                Encapsulamiento
+                Herencia y Polimorfismo
+                
+                Conceptos de herencia
+                Clases base y derivadas
+                Polimorfismo y métodos virtuales
+                Interfaces y Clases Abstractas
+                
+                Definición y uso de interfaces
+                Clases abstractas y métodos abstractos
+                Colecciones y Genéricos
+                
+                Listas, diccionarios y otros tipos de colecciones
+                Uso de genéricos en C#
+                Manejo de Excepciones
+                
+                Try-catch-finally
+                Creación de excepciones personalizadas
+
+
+# Nivel Medio-Alto
+
+Delegados y Eventos
+
+                Concepto de delegados
+                Uso de eventos
+                LINQ (Language Integrated Query)
+                
+                Introducción a LINQ
+                Operaciones básicas con LINQ
+                Acceso a Datos con ADO.NET
+                
+                Conexión a bases de datos
+                Realización de consultas
+                Programación Asíncrona
+                
+                Uso de async y await
+                Tareas y hilos
+                
+# Nivel Avanzado
+
+Programación Web con ASP.NET
+
+                Introducción a ASP.NET
+                Desarrollo de aplicaciones MVC
+                Servicios Web y API REST
+                
+                Creación de servicios web con WCF
+                Desarrollo de API RESTful
+                Windows Presentation Foundation (WPF)
+                
+                Creación de aplicaciones de escritorio con WPF
+                Uso de XAML
+                Entity Framework
+                
+                ORM con Entity Framework
+                Modelado de datos
+
+
+# Nivel Profesional/Experto
+
+Arquitectura de Software
+
+                Principios SOLID
+                Patrones de diseño
+                Pruebas Unitarias
+                
+                Creación de pruebas unitarias con MSTest y NUnit
+                Mocking y pruebas de integración
+                Seguridad en Aplicaciones
+                
+                Autenticación y autorización
+                Encriptación y manejo de datos sensibles
+                Despliegue y Mantenimiento
+                
+                Estrategias de despliegue
+                Continuous Integration/Continuous Deployment (CI/CD)
