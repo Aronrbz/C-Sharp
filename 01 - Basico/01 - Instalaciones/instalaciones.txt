@@ -1,0 +1,92 @@
+Primer Tema: 
+
+Introducción a la Programación en C#
+Historia y Evolución del Lenguaje
+C# (pronunciado "C Sharp") fue desarrollado por Microsoft y presentado por primera vez en el año 2000. Anders Hejlsberg, quien también participó en el desarrollo de Turbo Pascal y Delphi, lideró la creación de C#. El lenguaje fue diseñado para ser simple, moderno y orientado a objetos, con la capacidad de desarrollar una amplia gama de aplicaciones en la plataforma Windows.
+
+Instalación de Visual Studio
+Visual Studio es el IDE (Entorno de Desarrollo Integrado) recomendado para programar en C#. A continuación, te guiaré en la instalación y configuración de Visual Studio.
+
+Descarga Visual Studio:
+
+Visita el sitio web de Visual Studio.
+Descarga la versión Community, que es gratuita.
+Instalación:
+
+Ejecuta el instalador descargado.
+Selecciona la carga de trabajo "Desarrollo de escritorio con .NET".
+Asegúrate de incluir los componentes necesarios como .NET Framework.
+Configuración inicial:
+
+Abre Visual Studio después de la instalación.
+Inicia sesión con una cuenta de Microsoft (opcional, pero recomendado).
+Selecciona el tema de tu preferencia para la interfaz de usuario.
+Primer Programa en C# (Hola Mundo)
+Vamos a crear nuestro primer programa en C# para familiarizarnos con el entorno y la sintaxis básica del lenguaje.
+
+Crear un nuevo proyecto:
+
+Abre Visual Studio.
+Selecciona "Crear un nuevo proyecto".
+Elige "Aplicación de consola (.NET Core)".
+Asigna un nombre al proyecto, por ejemplo, "HolaMundo".
+Haz clic en "Crear".
+Escribir el código:
+
+En el archivo Program.cs, escribe el siguiente código:
+
+using System;
+
+namespace HolaMundo
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("¡Hola Mundo!");
+        }
+    }
+}
+
+
+Ejecutar el programa:
+
+Presiona Ctrl + F5 para compilar y ejecutar el programa.
+Deberías ver el mensaje "¡Hola Mundo!" en la consola.
+Sintaxis Básica de C#
+Comentarios:
+
+Comentarios de una línea: // Este es un comentario de una línea
+Comentarios de varias líneas:
+
+/* Este es un 
+   comentario de varias líneas */
+
+
+Estructura de un programa: Un programa en C# contiene clases y métodos. La ejecución comienza desde el método Main.
+
+using System;
+
+namespace MiPrograma
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Código aquí
+        }
+    }
+}
+
+Espacios de nombres (Namespaces): Organizan el código y evitan conflictos de nombres.
+Clases y métodos: Definen la estructura y comportamiento del programa.
+
+Ejercicios para el Tema
+
+Fácil: Escribe un programa que muestre tu nombre en la consola.
+
+Medio 1: Escribe un programa que muestre el mensaje "Hola, soy un programa en C#" en la consola.
+
+Medio 2: Escribe un programa que muestre tres líneas diferentes en la consola, cada una con un mensaje distinto.
+
+Difícil: Escribe un programa que muestre una breve presentación sobre ti (nombre, edad, y hobby) en la consola, cada dato en una línea diferente.
