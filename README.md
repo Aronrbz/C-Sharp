@@ -12,15 +12,25 @@ Creación: C# fue creado para proporcionar un lenguaje simple, moderno y orienta
 Primera versión: La primera versión de C# se lanzó en 2002 junto con el .NET Framework 1.0.
 
 Evolución: Desde su lanzamiento, C# ha tenido múltiples versiones, cada una agregando nuevas características y mejorando las capacidades del lenguaje. Algunas de las versiones más importantes incluyen:
-    C# 2.0 (2005): Introdujo genéricos, tipos anulables y métodos anónimos.
-    C# 3.0 (2007): Introdujo LINQ (Language Integrated Query), métodos de extensión y tipos anónimos.
-    C# 4.0 (2010): Introdujo parámetros opcionales y dinámicos.
-    C# 5.0 (2012): Introdujo programación asíncrona con async y await.
-    C# 6.0 (2015): Introdujo inicializadores de propiedades automáticas, interpolación de cadenas y expresiones nameof.
-    C# 7.0 y 7.1 (2017): Introdujo tuplas, funciones locales y tipos de valor inmutables.
-    C# 8.0 (2019): Introdujo patrones de coincidencia mejorados, índices y rangos.
-    C# 9.0 (2020): Introdujo registros, expresiones de with y mejoras en patrones.
-    C# 10.0 (2021): Introdujo archivos de nivel superior y mejoras en registros.
+
+        C# 2.0 (2005): Introdujo genéricos, tipos anulables y métodos anónimos.
+        
+        C# 3.0 (2007): Introdujo LINQ (Language Integrated Query), métodos de extensión y tipos anónimos.
+        
+        C# 4.0 (2010): Introdujo parámetros opcionales y dinámicos.
+        
+        C# 5.0 (2012): Introdujo programación asíncrona con async y await.
+        
+        C# 6.0 (2015): Introdujo inicializadores de propiedades automáticas, interpolación de cadenas y expresiones nameof.
+        
+        C# 7.0 y 7.1 (2017): Introdujo tuplas, funciones locales y tipos de valor inmutables.
+        
+        C# 8.0 (2019): Introdujo patrones de coincidencia mejorados, índices y rangos.
+        
+        C# 9.0 (2020): Introdujo registros, expresiones de with y mejoras en patrones.
+        
+        C# 10.0 (2021): Introdujo archivos de nivel superior y mejoras en registros.
+        
 
 **Usos Frecuentes de C#
 
