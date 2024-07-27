@@ -37,10 +37,15 @@ Evolución: Desde su lanzamiento, C# ha tenido múltiples versiones, cada una ag
 C# es un lenguaje versátil que se utiliza en una variedad de aplicaciones, incluyendo:
   
     Desarrollo de aplicaciones de escritorio: Utilizando tecnologías como Windows Forms y WPF (Windows Presentation Foundation).
+    
     Desarrollo web: Con ASP.NET, una plataforma robusta para crear aplicaciones web y servicios.
+    
     Desarrollo móvil: Con Xamarin, que permite crear aplicaciones móviles para Android y iOS utilizando C#.
+    
     Desarrollo de juegos: Con Unity, un motor de juegos popular que utiliza C# para la programación de scripts.
+    
     Servicios en la nube: Utilizando Azure, la plataforma de nube de Microsoft.
+    
     Inteligencia artificial y machine learning: Utilizando herramientas y bibliotecas como ML.NET.
 
   
@@ -49,10 +54,13 @@ C# es un lenguaje versátil que se utiliza en una variedad de aplicaciones, incl
 El .NET Framework es una plataforma de desarrollo creada por Microsoft que proporciona una amplia gama de servicios para el desarrollo de aplicaciones. Incluye una gran biblioteca de clases y una infraestructura de tiempo de ejecución conocida como CLR (Common Language Runtime).
 
     Biblioteca de clases base: Proporciona un conjunto rico de funcionalidades preconstruidas.
+    
     CLR: Maneja la ejecución de programas .NET, proporcionando servicios como gestión de memoria, seguridad y manejo de excepciones.
   
 Versiones de .NET
 
     .NET Framework: La versión original, lanzada en 2002.
+    
     .NET Core: Una versión multiplataforma y de código abierto del .NET Framework, lanzada en 2016.
+    
     .NET 5 y versiones posteriores: Una plataforma unificada que reemplaza tanto a .NET Framework como a .NET Core, lanzada en 2020. La versión más reciente es .NET 6, lanzada en 2021.
