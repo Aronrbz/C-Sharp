@@ -73,113 +73,144 @@ Versiones de .NET
 
 # Nivel Básico
 
-Introducción a la Programación en C#
+1.- Introducción a la Programación en C#
 
                 Historia y evolución del lenguaje
                 Instalación de Visual Studio
                 Primer programa en C# (Hola Mundo)
                 Sintaxis básica
-                Tipos de Datos y Variables
+                
+2.- Tipos de Datos y Variables
                 
                 Tipos de datos primitivos
+                Tipos de valor y tipos de referencia:
+                        *Tipos de valor
+                                Tipos simples
+                                Tipos de enumeración
+                                Tipos de estructura
+                                Tipos de valores que aceptan valores null
+                       *Tipos de referencia
+                                Tipos de clase
+                                Tipos de interfaz
+                                Tipos de matriz
+                                Tipos delegados
                 Declaración y uso de variables
                 Conversión de tipos
-                Operadores y Expresiones
                 
+3.- Operadores y Expresiones
+
                 Operadores aritméticos
                 Operadores de comparación
                 Operadores lógicos
-                Estructuras de Control
                 
+4.- Estructuras de Control
+
                 Condicionales (if, else, switch)
                 Bucles (for, while, do-while)
-                Métodos y Funciones
                 
+5.- Métodos y Funciones
+
                 Declaración y uso de métodos
                 Parámetros y valores de retorno
-                Sobrecarga de métodos
-
+                Sobrecarga de métodos 
 
 # Nivel Medio
 
-Clases y Objetos
-                
+6.- Clases y Objetos
+
                 Definición de clases
                 Creación de objetos
                 Encapsulamiento
-                Herencia y Polimorfismo
                 
+7.- Herencia y Polimorfismo
+
                 Conceptos de herencia
                 Clases base y derivadas
                 Polimorfismo y métodos virtuales
-                Interfaces y Clases Abstractas
-                
+
+8.- Interfaces y Clases Abstractas
+
                 Definición y uso de interfaces
                 Clases abstractas y métodos abstractos
-                Colecciones y Genéricos
-                
+
+9.- Colecciones y Genéricos
+
                 Listas, diccionarios y otros tipos de colecciones
                 Uso de genéricos en C#
-                Manejo de Excepciones
-                
+
+
+10.- Manejo de Excepciones
+
                 Try-catch-finally
                 Creación de excepciones personalizadas
 
-
 # Nivel Medio-Alto
 
-Delegados y Eventos
+
+11.- Delegados y Eventos
 
                 Concepto de delegados
                 Uso de eventos
-                LINQ (Language Integrated Query)
                 
+12.- LINQ (Language Integrated Query)
+
                 Introducción a LINQ
                 Operaciones básicas con LINQ
-                Acceso a Datos con ADO.NET
                 
+13.- Acceso a Datos con ADO.NET
+
                 Conexión a bases de datos
                 Realización de consultas
-                Programación Asíncrona
-                
+
+14.-Programación Asíncrona
+
                 Uso de async y await
                 Tareas y hilos
-                
+
+
 # Nivel Avanzado
 
-Programación Web con ASP.NET
+
+15.- Programación Web con ASP.NET
 
                 Introducción a ASP.NET
                 Desarrollo de aplicaciones MVC
-                Servicios Web y API REST
-                
+
+16.- Servicios Web y API REST
+
                 Creación de servicios web con WCF
                 Desarrollo de API RESTful
-                Windows Presentation Foundation (WPF)
-                
+
+17.- Windows Presentation Foundation (WPF)
+
                 Creación de aplicaciones de escritorio con WPF
                 Uso de XAML
-                Entity Framework
                 
+18.- Entity Framework
+
                 ORM con Entity Framework
                 Modelado de datos
 
 
 # Nivel Profesional/Experto
 
-Arquitectura de Software
+
+19.- Arquitectura de Software
 
                 Principios SOLID
                 Patrones de diseño
-                Pruebas Unitarias
-                
+
+20.- Pruebas Unitarias
+
                 Creación de pruebas unitarias con MSTest y NUnit
                 Mocking y pruebas de integración
-                Seguridad en Aplicaciones
                 
+21.- Seguridad en Aplicaciones
+
                 Autenticación y autorización
                 Encriptación y manejo de datos sensibles
-                Despliegue y Mantenimiento
                 
+ 22.- Despliegue y Mantenimiento
+
                 Estrategias de despliegue
                 Continuous Integration/Continuous Deployment (CI/CD)
