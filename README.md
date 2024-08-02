@@ -67,9 +67,8 @@ Versiones de .NET
 
 
 
-# Indice
-
 # Índice Completo de Temas
+
 
 # Nivel Básico
 
