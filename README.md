@@ -1,11 +1,11 @@
 # C-Sharp
 Curso donde se abordara el lenguaje C# y .NET framework
 
-**Un poco de Historia Sobre C#
+## Un poco de Historia Sobre C#
 
 C# (pronunciado "C Sharp") es un lenguaje de programación desarrollado por Microsoft como parte de su plataforma .NET. La creación de C# fue liderada por Anders Hejlsberg, un ingeniero de software que también es conocido por su trabajo en el desarrollo de Turbo Pascal y Delphi. C# fue lanzado en el año 2000, y desde entonces ha evolucionado significativamente.
 
-**Creación y Evolución
+## Creación y Evolución
 
 Creación: C# fue creado para proporcionar un lenguaje simple, moderno y orientado a objetos que pudiera competir con Java y C++.
 
@@ -32,7 +32,7 @@ Evolución: Desde su lanzamiento, C# ha tenido múltiples versiones, cada una ag
         C# 10.0 (2021): Introdujo archivos de nivel superior y mejoras en registros.
         
 
-**Usos Frecuentes de C#
+# Usos Frecuentes de C#
 
 C# es un lenguaje versátil que se utiliza en una variedad de aplicaciones, incluyendo:
   
@@ -49,7 +49,7 @@ C# es un lenguaje versátil que se utiliza en una variedad de aplicaciones, incl
     Inteligencia artificial y machine learning: Utilizando herramientas y bibliotecas como ML.NET.
 
   
-**.NET Framework
+## .NET Framework
 
 El .NET Framework es una plataforma de desarrollo creada por Microsoft que proporciona una amplia gama de servicios para el desarrollo de aplicaciones. Incluye una gran biblioteca de clases y una infraestructura de tiempo de ejecución conocida como CLR (Common Language Runtime).
 
@@ -57,7 +57,7 @@ El .NET Framework es una plataforma de desarrollo creada por Microsoft que propo
     
     CLR: Maneja la ejecución de programas .NET, proporcionando servicios como gestión de memoria, seguridad y manejo de excepciones.
   
-Versiones de .NET
+## Versiones de .NET
 
     .NET Framework: La versión original, lanzada en 2002.
     
