@@ -1,0 +1,104 @@
+Tipos de Datos y Variables
+
+
+Tipos de Datos Primitivos: 
+
+int: Almacena enteros (ej. 123, -456).
+
+float: Almacena números de punto flotante de precisión simple (ej. 3.14, -0.001).
+
+double: Almacena números de punto flotante de doble precisión.
+
+char: Almacena un solo carácter (ej. 'A', 'b').
+
+string: Almacena una secuencia de caracteres (ej. "Hola", "C#").
+
+bool: Almacena valores booleanos (true o false).
+
+
+
+Tipos de Valor y Tipos de Referencia
+
+1.- Tipos de Valor:
+
+*Tipos Simples: int, float, double, char, bool
+
+*Tipos de Enumeración (enum): Permiten definir un conjunto de constantes con nombre.
+
+    enum Dias { Domingo, Lunes, Martes, Miercoles, Jueves, Viernes, Sabado };
+
+
+*Tipos de Estructura (struct): Permiten definir tipos que agrupan varios datos relacionados.
+
+
+    struct Punto
+    {
+        public int x;
+        public int y;
+    }
+
+Tipos de Valores que Aceptan Valores Null: Permiten que los tipos de valor acepten el valor null.
+
+    int? numero = null;
+
+2.- Tipos de Referencia:
+
+* Tipos de Clase (class): Representan objetos que pueden contener datos y métodos.
+
+    class Persona
+    {
+        public string Nombre;
+        public int Edad;
+    }
+* Tipos de Interfaz (interface): Definen un contrato que las clases pueden implementar.
+
+
+    interface IMensaje
+    {
+        void Enviar(string mensaje);
+    }
+
+* Tipos de Matriz (array): Permiten almacenar múltiples elementos del mismo tipo.
+
+    int[] numeros = {1, 2, 3, 4, 5};
+
+* Tipos Delegados (delegate): Representan referencias a métodos.
+
+    delegate void DelegadoMensaje(string mensaje);
+
+
+Declaración y Uso de Variables:
+Para declarar una variable en C#, especifica el tipo de dato seguido del nombre de la variable.
+
+int numero = 5;
+float precio = 19.99f; (atencion con este tipo de dato, al final todos los float deben tener la letra f al finalizar.)
+double temperatura = 36.6;
+char inicial = 'A';
+string nombre = "Aron";
+bool esMayor = true;
+
+Conversión de Tipos
+A veces es necesario convertir datos de un tipo a otro. Esto se puede hacer de dos maneras: conversión implícita y conversión 
+explícita.
+
+Conversión implícita: Ocurre automáticamente cuando no hay pérdida de datos.
+
+int entero = 123;
+double doble = entero; // Conversión implícita
+
+
+Conversión explícita: Requiere el uso del operador de conversión (cast).
+
+double doble = 123.45;
+int entero = (int)doble; // Conversión explícita
+
+
+Ejercicios para el Tema
+Fácil: Declara una variable de tipo int y asígnale un valor. Luego muestra este valor en la consola.
+
+Medio 1: Declara una variable de tipo float, asígnale un valor y muestra el valor en la consola.
+
+Medio 2: Declara una variable de tipo string, asígnale tu nombre y muestra el valor en la consola.
+
+Difícil: Declara tres variables de diferentes tipos (int, double, string), asígnales valores y muestra todos los valores en 
+    una sola línea en la consola.
